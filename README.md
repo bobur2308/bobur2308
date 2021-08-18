@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobur2308
+- 👋 Hi, I’m Bobur Niyazov
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Full Stack development
 - 📫 How to reach me t.me/pluto_0200
