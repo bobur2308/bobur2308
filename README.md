@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bobur2308
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Full Stack development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me t.me/pluto_0200
 
 <!---
