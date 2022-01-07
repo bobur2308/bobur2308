@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Bobur Niyazov
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Full Stack development
-- 📫 How to reach me t.me/pluto_0200
+- 📫 How to reach me t.me/bobur_niyazov,
+-                    https://www.instagram.com/bobur_proo
 
 <!---
 bobur2308/bobur2308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
