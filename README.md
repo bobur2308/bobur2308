@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Full Stack development
 - 📫 How to reach me t.me/bobur_niyazov,
--                    https://www.instagram.com/bobur_proo
+-                    https://www.instagram.com/bobur_niyazov_
 
 <!---
 bobur2308/bobur2308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
